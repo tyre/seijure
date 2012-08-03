@@ -11,7 +11,7 @@ CSS is composed of lists of tags/classes/IDs with nested attributes and values (
 
 Seijure syntax mimics that of css, composed of simple vectors and maps. For example:
 
-`(css[:a {:color "blue"}])` compiles to `a { color: blue; }`
+`(css[:a [:color "blue"]])` compiles to `a {color: blue;}`
 
 **Seijure. It hurts to think about.**
 
