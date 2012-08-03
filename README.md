@@ -1,4 +1,5 @@
 # Seijure - Clojure to CSS
+## Because why the fuck not?
 
 ### Goals
 
